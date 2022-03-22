@@ -1,8 +1,9 @@
-## Olá, me chamo Ismael Pereira
+## Olá, me chamo Ismael Pereira, tenho 24 anos e sou um Programador FullStack
 ### Seja bem-vindo
 
 
-
+- 📖 Formado em Sistemas de Informação pela Faculdade Metodista Granbery
+- 🏠 Morando em Juiz de Fora - MG
 - 🔭 Estou estudando e procurando emprego atualmente
 - 🌱 Estou focado em me aprimorar em Javascript, Typescript, Golang e React
 - 😄 Meus pronomes são Ele/Dele
