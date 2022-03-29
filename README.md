@@ -5,7 +5,7 @@
 - 📖 Formado em Sistemas de Informação pela Faculdade Metodista Granbery
 - 🏠 Morando em Juiz de Fora - MG
 - 🔭 Estou estudando e procurando emprego atualmente
-- 🌱 Estou focado em me aprimorar em Javascript, Typescript, Golang e React
+- 🌱 Estou focado em me aprimorar como desenvolvedor Backend e estudando Golang e Elixir
 - 😄 Meus pronomes são Ele/Dele
 
 <div>
