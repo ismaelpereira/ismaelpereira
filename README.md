@@ -1,12 +1,11 @@
-## Olá, me chamo Ismael Pereira, tenho 24 anos e sou um Programador FullStack
-### Seja bem-vindo
+## Hello, I am Ismael, 27 years old And a backend developer
 
 
-- 📖 Formado em Sistemas de Informação pela Faculdade Metodista Granbery
-- 🏠 Morando em Juiz de Fora - MG
-- 🔭 Estou estudando e procurando emprego atualmente
-- 🌱 Estou focado em me aprimorar como desenvolvedor Backend e estudando Golang e Elixir
-- 😄 Meus pronomes são Ele/Dele
+
+- 📖 TI Bachelor completed in 2020 on Faculdade Metodista Granbery
+- 🏠 Juiz de Fora - MG - Brazil
+- 🔭 I'm looking to learn new languages and improve myself as Backend developer
+- 🌱 Typescript | Javascript | Golang
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
