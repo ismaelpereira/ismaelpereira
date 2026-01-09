@@ -1,10 +1,10 @@
-## Hello, I am Ismael, 27 years old And a backend developer
+## Hello, I am Ismael, 28 years old And a backend developer
 
 
 
 - 📖 TI Bachelor completed in 2020 on Faculdade Metodista Granbery
 - 🏠 Juiz de Fora - MG - Brazil
-- 🔭 I'm looking to learn new languages and improve myself as Backend developer
+- 🔭 Looking forward to solve the problems from your company with Technology
 - 🌱 Typescript | Javascript | Golang
 
 <div>
